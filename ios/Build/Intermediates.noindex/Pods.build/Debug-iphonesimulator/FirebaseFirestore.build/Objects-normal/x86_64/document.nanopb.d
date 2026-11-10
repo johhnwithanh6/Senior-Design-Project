@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/firestore/v1/document.nanopb.cc \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/firestore/v1/document.nanopb.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/nanopb/pb.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/api/annotations.nanopb.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/api/http.nanopb.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/protobuf/struct.nanopb.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/protobuf/timestamp.nanopb.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/type/latlng.nanopb.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/nanopb/pretty_printing.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/str_cat.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/port.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/config.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/options.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/numbers.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/bits.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/macros.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128_have_intrinsic.inc \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/throw_delegate.h

@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/core/filter.cc \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/core/filter.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/model/model_fwd.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/types/optional.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/config.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/options.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/types/bad_optional_access.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/types/internal/optional.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/macros.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/port.h

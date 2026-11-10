@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/apple/s21-team-goose-888/ios/Pods/gRPC-C++/src/cpp/server/create_default_thread_pool.cc \
+  /Users/apple/s21-team-goose-888/ios/Pods/Target\ Support\ Files/gRPC-C++/gRPC-C++-prefix.pch \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/cpu.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/port_platform.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/port_platform.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/gRPC-C++/src/cpp/server/dynamic_thread_pool.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/gRPC-C++/include/grpcpp/support/config.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/config.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/gRPC-C++/src/core/lib/gprpp/sync.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/log.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/sync.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/sync_generic.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/atm.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/atm_gcc_atomic.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/sync_posix.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/sync.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/gpr_types.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/time.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/gRPC-C++/src/core/lib/gprpp/thd.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/log.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/thd_id.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/gRPC-C++/src/core/lib/gprpp/memory.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/alloc.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/macros.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/config.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/options.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/port.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/gRPC-C++/src/cpp/server/thread_pool_interface.h

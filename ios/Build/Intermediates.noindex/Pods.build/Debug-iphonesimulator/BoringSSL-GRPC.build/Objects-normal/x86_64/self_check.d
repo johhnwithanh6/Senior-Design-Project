@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/self_check.c \
+  /Users/apple/s21-team-goose-888/ios/Pods/Target\ Support\ Files/BoringSSL-GRPC/BoringSSL-GRPC-prefix.pch \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/crypto.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/base.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/is_boringssl.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/opensslconf.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/sha.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/mem.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/thread.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/aead.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/aes.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/bn.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/des.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/ecdsa.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/ec_key.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/ec.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/engine.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/ex_data.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/stack.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/type_check.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/nid.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/rsa.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../../internal.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../ec/internal.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../ec/../bn/internal.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../ec/../bn/../../internal.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../rand/internal.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/include/openssl/cpu.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../rand/../../internal.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../rand/../modes/internal.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/BoringSSL-GRPC/src/crypto/fipsmodule/self_check/../rand/../modes/../../internal.h

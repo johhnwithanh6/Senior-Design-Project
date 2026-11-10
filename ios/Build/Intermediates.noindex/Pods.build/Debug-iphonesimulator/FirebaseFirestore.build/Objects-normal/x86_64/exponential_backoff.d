@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/remote/exponential_backoff.cc \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/remote/exponential_backoff.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/util/async_queue.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/util/executor.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/util/secure_random.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/util/hard_assert.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/util/exception.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/include/firebase/firestore/firestore_errors.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/util/string_format.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/objc/objc_type_traits.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/util/string_apple.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/config.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/options.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/macros.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/port.h \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/util/type_traits.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/str_cat.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/numbers.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/bits.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128.h \
+  /Users/apple/s21-team-goose-888/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128_have_intrinsic.inc \
+  /Users/apple/s21-team-goose-888/ios/Pods/FirebaseFirestore/Firestore/core/src/util/log.h
